@@ -112,3 +112,29 @@ h3 {
     width: 150px;
     object-fit: contain;
 }
+
+.develop-without-limit {
+    display: flex;
+    margin: 40px;
+    padding: 20px;
+}
+
+.top-banner2 img {
+    border: 1px solid white;
+    border-radius: 10%;
+    margin-left: 5%;
+}
+
+.head-title2 {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 20px;
+    color: #353b48;
+    margin-left: 10px;
+}
+
+.parent-container2 {
+    margin-left: 5%;
+    padding: 30px;
+    text-align: justify;
+}
