@@ -138,3 +138,27 @@ h3 {
     padding: 30px;
     text-align: justify;
 }
+
+.global-community {
+    display: flex;
+    margin: 40px;
+    padding: 20px;
+}
+
+.parent-container3 {
+    padding: 30px;
+    text-align: justify;
+}
+
+.head-title3 {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 20px;
+    color: #353b48;
+}
+
+.top-banner3 img {
+    border: 1px solid white;
+    border-radius: 10%;
+    margin-left: 5%;
+}
