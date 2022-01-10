@@ -162,3 +162,29 @@ h3 {
     border-radius: 10%;
     margin-left: 5%;
 }
+
+.contact-container {
+    display: flex;
+    margin: 40px;
+    padding: 20px;
+}
+
+.contact-child-1 img {
+    border: 1px solid white;
+    border-radius: 10%;
+    margin-left: 5%;
+}
+
+.head-title4 {
+    font-size: 30px;
+    font-weight: 900;
+    line-height: 20px;
+    color: #353b48;
+    margin-left: 50px;
+}
+
+.contact-child-2 {
+    margin-left: 5%;
+    padding: 30px;
+    text-align: justify;
+}
