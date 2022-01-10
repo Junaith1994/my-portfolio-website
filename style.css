@@ -188,3 +188,24 @@ h3 {
     padding: 30px;
     text-align: justify;
 }
+
+.footer-section {
+    font-size: 25px;
+    line-height: 20px;
+    background-color: #040233;
+    padding: 50px;
+    text-align: center
+}
+
+.footer-title {
+    color: #dcdde1;
+}
+
+.footer-title-year {
+    color:deepskyblue;
+}
+
+.footer-endline {
+    color:floralwhite;
+    font-size: 14px;
+}
